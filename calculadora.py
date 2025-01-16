@@ -4,6 +4,9 @@ def suma(a, b):
 def resta(a, b):
     return a - b
 
+def multiplicacion(a, b):
+    return a * b
+
 def main():
     print("Calculadora Básica")
     print("Suma de 3 y 5:", suma(3, 5))
